@@ -1,10 +1,11 @@
-<h1 align="center">Greetings Intrepid Travellers 👋, I'm Prathamesh Deshpande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Greetings Intrepid Explorers 👋, I'm Prathamesh Deshpande</h1>
+<h3 align="center">A Tech, Efficiency & Productivity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshd30&label=View%20Counter&color=0eb419&style=flat-square" alt="prathameshd30" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/prathameshd30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prathameshd30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deshpande-prathamesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshpande-prathamesh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pdash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pdash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deshpandepratha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deshpandepratha1" height="30" width="40" /></a>
@@ -16,7 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshd30&show_icons=true&theme=dark&title_color=ffbb00&text_color=d1d1d1&hide_border=true&locale=en&layout=compact" alt="prathameshd30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshd30&show_icons=true&theme=dark&title_color=ffbb00&hide_border=true&locale=en" alt="prathameshd30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshd30&show_icons=true&theme=dark&title_color=ffbb00&text_color=c7c7c7&hide_border=true&locale=en" alt="prathameshd30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshd30&" alt="prathameshd30" /></p>
-
